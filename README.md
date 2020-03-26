@@ -16,4 +16,4 @@ Eu sou viciado em doces, pareço uma criança de 2 anos, completamente impulsivo
 8. Estabilidade
 
 ## Desafio prático
-Está localizado no Safira.ipynb nesse diretório do GitHub.
+Está localizado no Safira.ipynb neste diretório.
